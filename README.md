@@ -78,6 +78,14 @@ if (mysqli_num_rows($result) > 0) {
 10. Using that data returned from PHP API we can proceed further to show the result to the User End.
 
 
- 
+ #Here are some data in Database which can be searched:
+ ```
+ GHTGH6765 - Dipak Prasad
+FGTGH9897E - John Doe
+CSHPS2996E - Manish Kumar Srivastava
+HJYHS8786T - Ram Kumar
+HJHBN6764H - Sam Roy
+LKJVF6567F - Vijay Singh
+```
  
  
